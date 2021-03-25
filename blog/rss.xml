@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+    <channel>
+        <title>数学与计算科学学院创新实践基地 Blog</title>
+        <link>https://https://seven-innovation-base.github.io/blog</link>
+        <description>数学与计算科学学院创新实践基地 Blog</description>
+        <lastBuildDate>Tue, 21 Jul 2020 00:00:00 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Hexo博客搭建那些事儿，考核系列相关文章-1]]></title>
+            <link>https://https://seven-innovation-base.github.io/blog/things of hexo blog building</link>
+            <guid>things of hexo blog building</guid>
+            <pubDate>Tue, 21 Jul 2020 00:00:00 GMT</pubDate>
+            <description><![CDATA[博客考核任务发布之后有同学问了各种各样的问题，（趁着大家基本考完试了）发篇博文略微总结下。]]></description>
+        </item>
+        <item>
+            <title><![CDATA[搭建属于自己的博客]]></title>
+            <link>https://https://seven-innovation-base.github.io/blog/create-blog</link>
+            <guid>create-blog</guid>
+            <pubDate>Tue, 14 Jan 2020 00:00:00 GMT</pubDate>
+            <description><![CDATA[前言]]></description>
+        </item>
+        <item>
+            <title><![CDATA[进制转换题目解析]]></title>
+            <link>https://https://seven-innovation-base.github.io/blog/conversion-of-numbers</link>
+            <guid>conversion-of-numbers</guid>
+            <pubDate>Sat, 02 Nov 2019 00:00:00 GMT</pubDate>
+            <description><![CDATA[一、题目描述]]></description>
+        </item>
+        <item>
+            <title><![CDATA[用win10自带虚拟机Hyper-V玩转Linux]]></title>
+            <link>https://https://seven-innovation-base.github.io/blog/win10-hyper-v</link>
+            <guid>win10-hyper-v</guid>
+            <pubDate>Tue, 24 Sep 2019 00:00:00 GMT</pubDate>
+            <description><![CDATA[教你如何使用win10自带虚拟机Hyper-V]]></description>
+        </item>
+        <item>
+            <title><![CDATA[StringBuilder的高性能使用方式总结]]></title>
+            <link>https://https://seven-innovation-base.github.io/blog/StringBuilder-High-Performance-Usecase</link>
+            <guid>StringBuilder-High-Performance-Usecase</guid>
+            <pubDate>Fri, 30 Aug 2019 00:00:00 GMT</pubDate>
+            <description><![CDATA[一、设置合理的初始长度]]></description>
+        </item>
+    </channel>
+</rss>
