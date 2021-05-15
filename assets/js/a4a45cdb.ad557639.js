@@ -1,0 +1,1 @@
+(self.webpackChunkseven_innovation_base_website=self.webpackChunkseven_innovation_base_website||[]).push([[7975],{2780:function(a){"use strict";a.exports=JSON.parse('{"allTagsPath":"/blog/tags","slug":"java","name":"java","count":1,"permalink":"/blog/tags/java"}')}}]);
