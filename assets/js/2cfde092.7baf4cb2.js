@@ -1,0 +1,1 @@
+(self.webpackChunkseven_innovation_base_website=self.webpackChunkseven_innovation_base_website||[]).push([[8428],{2011:function(e){"use strict";e.exports=JSON.parse('{"allTagsPath":"/blog/tags","slug":"markdown","name":"markdown","count":1,"permalink":"/blog/tags/markdown"}')}}]);

@@ -2,11 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://https://seven-innovation-base.github.io/blog</id>
     <title>数学与计算科学学院创新实践基地 Blog</title>
-    <updated>2020-07-21T00:00:00.000Z</updated>
+    <updated>2021-05-15T14:38:18.329Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://https://seven-innovation-base.github.io/blog"/>
     <subtitle>数学与计算科学学院创新实践基地 Blog</subtitle>
     <icon>https://https://seven-innovation-base.github.io/img/logo.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Markdown之系列精讲🎈✨]]></title>
+        <id>The things of markdown</id>
+        <link href="https://https://seven-innovation-base.github.io/blog/The things of markdown"/>
+        <updated>2021-05-15T14:38:18.329Z</updated>
+        <summary type="html"><![CDATA[一些话]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hexo博客搭建那些事儿，考核系列相关文章-1]]></title>
         <id>things of hexo blog building</id>
