@@ -1,1 +1,0 @@
-(self.webpackChunkseven_innovation_base_website=self.webpackChunkseven_innovation_base_website||[]).push([[3726],{6937:function(e){"use strict";e.exports=JSON.parse('{"allTagsPath":"/blog/tags","slug":"recruitment","name":"recruitment","count":1,"permalink":"/blog/tags/recruitment"}')}}]);
