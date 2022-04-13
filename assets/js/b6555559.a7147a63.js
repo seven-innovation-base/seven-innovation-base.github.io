@@ -1,1 +1,0 @@
-(self.webpackChunkseven_innovation_base_website=self.webpackChunkseven_innovation_base_website||[]).push([[7064],{2858:function(e){"use strict";e.exports=JSON.parse('{"allTagsPath":"/blog/tags","slug":"\u62db\u65b0","name":"\u62db\u65b0","count":2,"permalink":"/blog/tags/\u62db\u65b0"}')}}]);

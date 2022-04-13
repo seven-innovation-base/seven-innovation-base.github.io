@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkseven_innovation_base_website=self.webpackChunkseven_innovation_base_website||[]).push([[1494],{4824:function(e){e.exports=JSON.parse('{"permalink":"/blog/tags/\u62db\u65b0","page":1,"postsPerPage":10,"totalPages":1,"totalCount":2,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

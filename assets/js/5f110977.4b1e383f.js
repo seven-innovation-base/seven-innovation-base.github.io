@@ -1,1 +1,0 @@
-(self.webpackChunkseven_innovation_base_website=self.webpackChunkseven_innovation_base_website||[]).push([[9926],{1363:function(s){"use strict";s.exports=JSON.parse('{"allTagsPath":"/blog/tags","slug":"algorithms","name":"algorithms","count":1,"permalink":"/blog/tags/algorithms"}')}}]);

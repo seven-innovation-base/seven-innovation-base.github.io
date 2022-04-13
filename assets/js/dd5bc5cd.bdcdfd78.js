@@ -1,1 +1,0 @@
-(self.webpackChunkseven_innovation_base_website=self.webpackChunkseven_innovation_base_website||[]).push([[4640],{7512:function(e){"use strict";e.exports=JSON.parse('{"allTagsPath":"/blog/tags","slug":"linux","name":"linux","count":1,"permalink":"/blog/tags/linux"}')}}]);
