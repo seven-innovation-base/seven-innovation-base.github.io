@@ -1,5 +1,0 @@
-User-Agent: *
-Allow: /
-Disallow: /legacy/
-
-Sitemap: https://xn--7gqr3hs9ecxao51c822e.cn/sitemap.xml
